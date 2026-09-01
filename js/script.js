@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
             const travelBase =
-                travellers * 420;
+                travellers * 475;
 
 
             const total =
